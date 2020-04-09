@@ -4,7 +4,7 @@
 33;BE;Belgium;11429336
 3;BG;Bulgaria;7084571
 25;HR;Croatia;4189353
-8;CY;Cyprus;
+8;CY;Cyprus;848300
 9;CZ;Czechia;10618303
 19;DK;Denmark;5733551
 31;EE;Estonia;1309632
@@ -33,6 +33,8 @@
 23;SI;Slovenia;2079976
 1;ES;Spain;46354321
 22;SE;Sweden;9910701
-10;CH;Switzerland;847600
-36;TR;Turkey;
+10;CH;Switzerland;8476000
+36;TR;Turkey;79810000
 24;UK;United Kingdom;66181585
+;US;US;325700000
+;CN;China;1386000000
